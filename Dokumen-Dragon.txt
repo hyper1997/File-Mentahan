@@ -1,0 +1,260 @@
+Platform DRAGON Hacker
+Jangan jahat tapi jadilah CRACKER!
+Portable
+Dirancang untuk diinstal pada Smartphone Android apa pun, dukungan penuh dari versi 5.0 ke lebih tinggi dan semua papan ARM (Raspberry Pi dan lainnya).
+
+Sumber Terbuka
+Dengan pengembangan terbuka dimungkinkan untuk mendapatkan dukungan dari siapa saja, ini meningkatkan keamanan dan efisiensi sistem!
+
+Dioptimalkan
+ANDRAX telah dikembangkan sepenuhnya dengan fokus pada eksekusi dengan sumber daya perangkat keras yang minimal.
+
+ANDRAX Berjalan di Android
+Berbasis Keras
+ANDRAX menggunakan struktur paling canggih dan terpercaya di dalam struktur Linux ANDRAX menjadi terisolasi
+
+Lebih dari 3000 alat
+ANDRAX mempromosikan penggunaan lebih dari 3000 alat canggih untuk Pengujian Peretasan, Perengkahan, dan Penetrasi.
+
+Lebih dari 4000 serangan
+Bekerja dengan Keamanan Ofensif nyata menyalahgunakan lebih dari 4000 jenis serangan dengan ANDRAX.
+
+Apa merek yang lebih baik atau kebebasan Anda ?
+Pikirkan tentang itu
+PERHATIAN!!!
+ANDRAX adalah alat untuk Peretasan etis
+Kami membenci segala jenis kejahatan dunia maya! Kami adalah profesional keamanan, bukan bajak laut!
+
+Jangan gunakan ANDRAX untuk aktivitas ilegal!
+
+Platform Peretasan Terbaik
+Platform Pengujian Penetrasi dan Peretasan Etis paling canggih
+
+Sistem yang membunuh platform lain.
+
+Logo ANDRAX
+ANDRAX merevolusi keamanan komputasi dengan membawa visi pasar Hacking yang futuristik dan inovatif
+
+Lebih banyak alat daripada platform lain
+
+Alat inovatif, sistem lain hanya menyimpan alat lama yang sama, ANDRAX adalah evolusi, memungkinkan profesional menggunakan alat baru di pasar untuk melakukan pengujian terbaik dengan metodologi dan teknologi paling inovatif.
+
+Dibuat untuk Peretas Tingkat Lanjut
+
+Sistem lain dibuat untuk youtube bodoh dan didedikasikan untuk lammers untuk menjual kursus, ANDRAX didedikasikan untuk pengguna Profesional dan Mahir, kami tidak peduli dengan banyak pengguna, kami peduli dengan pengguna Tingkat lanjut!
+
+ANDRAX Berjalan di Android
+Fitur dan Alat
+Pengumpulan Informasi
+Sumber daya dan alat terbaik untuk Pengumpulan Informasi dan pengumpulan data
+
+Memindai
+Ratusan Pemindai untuk melakukan hasil terbaik dari semua operasi pemindaian dan meningkatkan tingkat keberhasilan
+
+Pembuatan Paket
+Alat untuk Memanipulasi dan Membuat Paket, Pembuatan Paket sangat penting untuk memotong IDS dan IPS
+
+Serangan IPv6
+ANDRAX sepenuhnya mampu melakukan serangan lanjutan terhadap jaringan IPv6
+
+Peretasan Situs Web
+Ratusan alat dan sumber daya untuk dilakukan: Peretasan WebSite, Analisis, Eksploitasi ...
+
+Serangan Kata Sandi
+Brute force, Discover, Online Cracking dan semua Serangan berbasis Kata Sandi
+
+Peretasan Nirkabel
+Peretasan Nirkabel Cepat dan Mudah seperti: WEP, WPA, WPA2, WPA3 ... Serangan Campuran; Meja Brute force dan Rainbow
+
+Retas Windows
+Sumber daya, alat, dan teknik canggih untuk Bypass, Hack, dan Eksploitasi mesin motherfucker Windows
+
+Retas OSX
+OSX adalah Sistem Operasi untuk orang bodoh yang mengira mereka pintar, ANDRAX dapat dengan mudah meretasnya dengan banyak cara!
+
+Retas Linux
+ANDRAX juga dapat meretas raja internet, termasuk semua jenis Serangan dan metode Eksploitasi
+
+Retas iOS
+Menembus Sistem Operasi seluler Apple dengan aplikasi berbahaya, eksploitasi, dan Over The Air
+
+Retas Android
+Sematkan payload di APK, Buat aplikasi Android dari ANDRAX, Exploit, Inject, dan Bypass
+
+Phishing Tingkat Lanjut
+Alat dan sumber daya canggih untuk kampanye phishing tingkat berikutnya
+
+Mobile Telecom
+Alat Hacking tingkat lanjut untuk mengeksploitasi komunikasi 2G, 3G, 4G dan 5G
+
+Peretasan VoIP
+Sumber daya khusus untuk komunikasi VoIP Peretasan dan Eksploitasi
+
+ICS dan SCADA
+Memanfaatkan Sistem Kontrol Industri, PLC, MODBUS, dan Peretasan RTU
+
+Peretasan IoT dan IIoT
+Retas dunia modern, IoT dan IIoT mengontrol dunia saat ini dan ANDRAX mengontrol keduanya!
+
+Terminal Lanjutan
+ANDRAX memiliki Terminal tercanggih untuk Ethical Hacking, Cracking, dan Penetration Testing
+
+Eksploitasi BGP
+Meretas internet dengan Border Gateway Protocol Anda, ANDRAX dapat meracuni dan menyuntikkan rute di BGP
+
+C2 Lanjutan
+Alat-alat canggih untuk Command and Control, memotong pelacur Tim Merah, mendapatkan akses sisi dalam jaringan apa pun
+
+Peretasan QRCode
+Mengeksploitasi dan membajak pengguna, aplikasi ... dengan Kode QR berbahaya
+
+Peretasan Printer
+ANDRAX memiliki kemampuan untuk meretas dan menembus jaringan menggunakan printer, kerusakan fisik juga tersedia
+
+DNS Rebinding
+Menembus jaringan yang dilindungi IDS / IPS dan Firewall dan menjalankan eksploitasi sisi pengguna dari jarak jauh, melewati DNS melalui TLS
+
+Eksploitasi Perangkat Keras
+Retas perangkat di tingkat perangkat keras, lewati semua batasan keamanan, kendalikan perangkat dengan lapisan fisik Anda
+
+Peretasan Kamera dan Webcam
+Dapatkan di Kamera keamanan dan webcam pengguna, jalankan kode di perangkat ini untuk membajak jaringan
+
+Peretasan Bluetooth
+ANDRAX dapat mengatur BlueZ Stack pada smartphone atau papan ARM apa pun untuk Peretasan Bluetooth Tingkat Lanjut.
+
+Dan banyak lagi ...
+
+Menjadi seorang profesional sejati
+Berhenti menggunakan sistem yang dibuat oleh orang bodoh untuk lammers
+Instal ANDRAX dan bergabunglah dengan komunitas peretas sejati!
+
+N ° 1
+Nomor 1 dalam Penetration Testing dan Ethical Hacking, Didedikasikan untuk evolusi yang konstan.
+
+
+Apa itu ANDRAX?
+ANDRAX adalah Platform Pengujian Penetrasi yang dikembangkan untuk Smartphone Android dan papan ARM, ANDRAX memiliki kemampuan untuk berjalan di Android sehingga berperilaku seperti distribusi Linux pada umumnya, Tapi lebih kuat daripada distribusi umum!
+
+Pengembangan ANDRAX dimulai pada 08/09/2016 (DD / MM / YYYY) hanya untuk orang-orang di Brazil ANDRAX telah sepenuhnya didefinisikan ulang dan dimuat ulang pada 05/10/2018 (DD / MM / YYYY) terbuka untuk publik internasional.
+
+ANDRAX memungkinkan semua perangkat Android dan ARM dengan akses dan penyimpanan root menjadi senjata untuk Pengujian Penetrasi Tingkat Lanjut dan operasi Tim Merah.
+
+ANDRAX dikembangkan oleh Weidsom Nascimento dari The Cracker Technology - Advanced Pentest
+
+Mengapa Android dan ARM begitu kuat?
+Sederhana, setiap orang memiliki ponsel cerdas dan menghabiskan waktu dengannya!
+
+Kami memiliki kemungkinan untuk berkamuflase dengan mudah di tengah semua orang, arsitektur prosesor dari kebanyakan smartphone Android adalah ARM, arsitektur yang modern dan kuat yang sangat unggul dari yang lain, Dengan layar sentuh kami dapat menjalankan alat dengan kelincahan dan memanfaatkan grafis. antarmuka Android, kita bisa masuk hampir di mana saja dengan smartphone kita ...
+
+ Jika Anda tidak mengerti betapa hebatnya Anda bukan Penetration Tester!
+
+Dengan Android kami memiliki banyak kekuatan di tangan kami, kami dapat melakukan semua yang kami lakukan dengan desktop dan banyak lagi.
+
+ARM adalah arsitektur terbaik untuk prosesor, x86 sudah mati, komputer didefinisikan ulang saat ini!
+
+Mengapa ANDRAX lebih baik?
+Mari kita lihat mengapa ANDRAX adalah Platform Pengujian Penetrasi terbaik ...
+
+Portable
+ANDRAX portabel untuk Smartphone Android apa pun yang menggunakan Android 5+ dan ruang tersisa dan papan ARM apa pun seperti Raspberry Pi
+
+Berbasis Keras
+ANDRAX menggunakan struktur paling canggih di dalam struktur Linux default, ini berarti bahwa ANDRAX dapat mengisolasi proses dan menginstal hal-hal dengan lib dan sumber daya yang saling bertentangan dalam lingkungan yang sama.
+
+Dengan HardBased, kami mendapatkan lingkungan yang aman untuk menjalankan kode yang tidak tepercaya dan / atau menerapkan beberapa jenis pengujian yang tidak mungkin dilakukan di sistem lain
+
+Modern
+ANDRAX adalah platform modern, kami memiliki alat baru yang tidak termasuk dalam sistem lain, kami menyukai ide untuk memberikan alat dan sumber daya baru untuk para profesional, platform lain dibuat oleh dinosaurus yang menyukai hal-hal lama yang tidak berfungsi saat ini.
+
+Stabil
+ANDRAX adalah platform yang stabil sehingga sistem Anda tidak akan pernah rusak, kami suka meletakkan segala sesuatunya dalam loop berjalan tanpa batas, jadi kami membuat platform kami stabil hanya dengan memperbarui hal-hal yang benar-benar dibutuhkan dan alat yang memiliki pengembangan cepat, semuanya diuji secara ekstensif untuk Anda. pengalaman terbaik dalam Advanced Ethical Hacking
+
+Lebih banyak alat
+ANDRAX memiliki lebih banyak alat dan sumber daya daripada platform lain, kami suka memberi pengguna kami kekuatan semaksimal mungkin, pengguna kami adalah Peretas Etis Tingkat Lanjut dan Penguji Penetrasi yang tidak dapat membuang waktu untuk memperbaiki bug atau menginstal sesuatu di sistem, jadi kami membuatnya semua yang tersedia untuk mereka.
+
+Dioptimalkan
+ANDRAX memiliki banyak pengoptimalan yang diaktifkan secara default dan di-hardcode untuk menghadirkan pengalaman terbaik bagi pengguna kami, ANDRAX dibuat untuk berjalan di perangkat dengan daya rendah, memori, dan daya prosesor ...
+
+Ringan
+ANDRAX sangat ringan jika dibandingkan dengan sistem lain, sistem lain membutuhkan sekitar 40GB ruang kosong, ANDRAX hanya membutuhkan 15GB untuk berjalan pada 100%.
+
+Kecerdasan buatan
+ANDRAX memiliki sumber daya untuk sistem AI yang didedikasikan untuk Peretasan, Pembelajaran Mesin dalam Peretasan Etis adalah area yang berkembang saat ini dan ANDRAX berhubungan dengannya
+
+Dan banyak lagi
+Jika kami membuat daftar semua keunggulan ANDRAX kami akan menghabiskan satu tahun penuh menulis ...
+
+Instal ANDRAX sekarang dan jelajahi Keamanan Serangan yang sebenarnya!
+
+
+Bagaimana cara menginstal ANDRAX?
+Instalasi ANDRAX sangat mudah, setiap orang bodoh seperti Anda dapat menginstalnya juga!
+
+Diperlukan root dan ruang
+
+Anda memerlukan perangkat yang di-rooting dan sekitar 15gb ruang kosong. Kami merekomendasikan penggunaan Magisk sebagai pengelola root Anda!
+
+Unduh ANDRAX
+Untuk memulai, Unduh ANDRAX dari Situs Web Resmi kami
+
+UNDUH hanya dari SITUS KAMI !!!
+
+Jangan Unduh ANDRAX dari sumber lain, ANDRAX adalah Proyek Sumber Terbuka dan siapa pun dapat membuat bangunan berbahaya.
+
+Anak-anak Rusia yang jahat menyebarkan malware di 4pda dan mengatakan bahwa itu adalah build ANDRAX "khusus", Hanya Unduh dari Situs Web Resmi
+
+Buka antarmuka ANDRAX
+Izinkan akses root
+Berikan izin penyimpanan ANDRAX (untuk menyimpan file dan mengelola unduhan)
+Tekan "OK" pada dialog pemasangan ANDRAX
+Jangan pernah keluar dari layar instalasi !
+
+Anda harus tetap berada di layar penginstalan untuk mencegah Android menutup ANDRAX
+
+Proses instalasi bisa memakan waktu lebih dari 1 jam, tergantung dari kecepatan internet dan kecepatan IO perangkat Anda!
+
+Sekarang instalasi ANDRAX Anda akan selesai jika semuanya baik-baik saja!
+
+Pemberitahuan akses root (roti panggang)
+
+ANDRAX meminta banyak perintah root ... benar-benar berkali-kali sehingga banyak toast dapat muncul di layar Anda, Anda dapat menonaktifkannya di konfigurasi magisk untuk ANDRAX.
+
+Kata sandi ANDRAX
+Beberapa hal seperti: sudo, su, dan alat lainnya meminta kata sandi Anda, dalam 90% kasus kata sandinya adalah andrax.
+
+Bagaimana cara memperbarui ANDRAX?
+Generasi baru ANDRAX didasarkan pada Debian, ANDRAX telah memasang APT tetapi source.list dinonaktifkan secara default ...
+
+Mengapa? Sederhana, APT tidak untuk digunakan di ANDRAX, ANDRAX adalah Platform Pengujian Peretasan dan Penetrasi Etis, tidak dibuat untuk penggunaan umum ... Anda dapat membuka kunci sumber apt dan menginstal sesuatu dari repo Debian, tetapi jangan pernah mencoba pembaruan dari APT .
+
+Jangan gunakan APT !!!
+
+Jangan pernah menggunakan APT untuk memperbarui ANDRAX, ini akan merusak seluruh sistem!
+
+Hanya perbarui ANDRAX dari Situs Web Resmi kami , setiap bulan memiliki BUILD baru dengan fitur dan pembaruan baru.
+
+Kami sedang membuat Manajer Paket !!!
+
+Kami sedang mengerjakan Package Manager kami sendiri, sebentar lagi akan siap, untuk saat ini tunggu dan perbarui menggunakan Situs Web Resmi kami.
+
+Daemon layanan
+ANDRAX dilengkapi dengan daemon layanan untuk membantu Anda dan meningkatkan kegunaan Anda!
+
+Penampung ANDRAX tidak pernah bisa boot, penampung selalu dalam ruang pengguna, tetapi Anda dapat menggunakan skrip init.d dengan cara yang sama seperti yang Anda lakukan di distribusi Linux normal.
+
+Anda dapat membuat daftar layanan ANDRAX yang tersedia menggunakan perintah:
+
+sudo service --status-all 
+
+
+Pelajari Peretasan Etis
+Jika Anda ingin menjadi seorang profesional, bergabunglah dengan Pelatihan Peretasan Etis Tingkat Lanjut Saya: GABUNG SEKARANG!
+
+
+su -c busybox tar -xvJf /Internal/andraxcore.tar.xz -C /data/data/com.thecrackertechnology.andrax/ANDRAX/
+
+
+
+
+
